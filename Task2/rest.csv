@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://bnb.data.bl.uk/sites/all/themes/britishlibrary/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Welcome to bnb.data.bl.uk | The British National Bibliography</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <link type="text/css" rel="stylesheet" href="http://bnb.data.bl.uk/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bnb.data.bl.uk/sites/default/files/css/css_mxbvRAV0_YoXwGCXbsQzCkegc1pXHICzfd8PPQD9YE4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bnb.data.bl.uk/sites/default/files/css/css_ONUirtjNp1W5GCRMF__E1LgAIJE8wlynmmsy7-uCaE8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bnb.data.bl.uk/sites/default/files/css/css_E9maC9M3xZcVoZVgmqvF-EYUg1shDErR6bhOUWh04aU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://bnb.data.bl.uk/sites/default/files/css/css_HJmQo8Rmxq8Mq3geSmHdaY_qIUM64yGupyO8-tCHAgk.css" media="all" />
+  <script src="http://bnb.data.bl.uk/sites/all/modules/jquery_update/replace/jquery/1.5/jquery.min.js?v=1.5.2"></script>
+<script src="http://bnb.data.bl.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="http://bnb.data.bl.uk/misc/drupal.js?oxmcq6"></script>
+<script src="http://bnb.data.bl.uk/misc/ui/jquery.ui.core.min.js?v=1.8.7"></script>
+<script src="http://bnb.data.bl.uk/misc/ui/jquery.ui.widget.min.js?v=1.8.7"></script>
+<script src="http://bnb.data.bl.uk/misc/ui/jquery.ui.position.min.js?v=1.8.7"></script>
+<script src="http://bnb.data.bl.uk/misc/ui/jquery.ui.autocomplete.min.js?v=1.8.7"></script>
+<script src="http://bnb.data.bl.uk/sites/all/modules/panels/js/panels.js?oxmcq6"></script>
+<script src="http://bnb.data.bl.uk/sites/all/modules/views_slideshow/js/views_slideshow.js?oxmcq6"></script>
+<script src="http://bnb.data.bl.uk/sites/all/themes/britishlibrary/js/solr-search.js?oxmcq6"></script>
+<script src="http://bnb.data.bl.uk/sites/all/themes/britishlibrary/js/script.js?oxmcq6"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"britishlibrary","theme_token":"59V2s_Y756v_kQLe8GtSKR7eRO67xjtrLoOTWju3Ljg","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/themes\/britishlibrary\/js\/solr-search.js":1,"sites\/all\/themes\/britishlibrary\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/3343f0db6c6e6316e2e7021f4d4694cd.css":1,"sites\/all\/themes\/britishlibrary\/system.menus.css":1,"sites\/all\/themes\/britishlibrary\/css\/normalize.css":1,"sites\/all\/themes\/britishlibrary\/css\/wireframes.css":1,"sites\/all\/themes\/britishlibrary\/css\/page-backgrounds.css":1,"sites\/all\/themes\/britishlibrary\/css\/tabs.css":1,"sites\/all\/themes\/britishlibrary\/css\/pages.css":1,"sites\/all\/themes\/britishlibrary\/css\/blocks.css":1,"sites\/all\/themes\/britishlibrary\/css\/navigation.css":1,"sites\/all\/themes\/britishlibrary\/css\/views-styles.css":1,"sites\/all\/themes\/britishlibrary\/css\/nodes.css":1,"sites\/all\/themes\/britishlibrary\/css\/comments.css":1,"sites\/all\/themes\/britishlibrary\/css\/forms.css":1,"sites\/all\/themes\/britishlibrary\/css\/fields.css":1,"sites\/all\/themes\/britishlibrary\/css\/slideshow.css":1,"sites\/all\/themes\/britishlibrary\/css\/print.css":1}}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-25 node-type-homepage page-panels" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+<a href="http://www.bl.uk"><div class="librarybanner"></div></a>
+
+  <header id="header" role="banner">  
+    <div id="branding">
+	
+              <a href="/" title="Home" rel="home">
+          <hgroup id="name-and-slogan">
+                          <h1 id="site-name">
+                <span>The British National Bibliography</span>
+              </h1>
+            
+                          <h2 id="site-slogan">as Linked Open Data</h2>
+                      </hgroup><!-- /#name-and-slogan -->
+        </a>
+      
+      <div class="page-top">
+          <div class="region region-top">
+    
+<div class="view-solr-search">
+	<form accept-charset="UTF-8" id="views-exposed-form-solr-search-page" method="get" action="/search">
+		<div class="views-exposed-form">
+			<div class="views-exposed-widgets clearfix">
+				<div class="views-exposed-widget views-widget-filter-object" id="edit-object-wrapper">
+					<div class="views-widget">
+						<div class="form-item form-type-textfield form-item-object">
+							<input type="text" class="form-text ui-autocomplete-input" maxlength="128" size="30" name="object" id="edit-object" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+						</div>
+					</div>
+				</div>
+				<div class="views-exposed-widget views-submit-button">
+					<input type="submit" class="form-submit" value="Search" name="" id="edit-submit-solr-search">
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+  </div>
+      </div>
+    </div>
+
+    <div id="navigation">
+
+              <nav id="main-menu" role="navigation">
+          <h2 class="element-invisible">Main menu</h2><ul class="links clearfix"><li class="menu-659 first active"><a href="/" title="" class="active">Home</a></li>
+<li class="menu-656"><a href="/getting-started">Getting Started</a></li>
+<li class="menu-631"><a href="/docs" title="">Documentation</a></li>
+<li class="menu-657"><a href="/faqs">FAQs</a></li>
+<li class="menu-569 last"><a href="/contact" title="">Contact Us</a></li>
+</ul>        </nav>
+      
+    </div><!-- /#navigation -->
+
+  </header>
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+                  <a id="main-content"></a>
+                    <h1 class="title" id="page-title">Welcome to bnb.data.bl.uk</h1>
+                                          
+
+
+<div class="panel-flexible panel-homepage clearfix" >
+<div class="panel-flexible-inside panel-homepage-inside">
+<div class="panels-flexible-row panels-flexible-row-panel-homepage-main-row panels-flexible-row-first clearfix">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-panel-homepage-main-row-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-panel-homepage-center panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-panel-homepage-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-field-header" >
+  
+      
+  
+  <div class="field field-name-field-header field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The BNB Linked Data Platform provides access to the <a href="http://www.bl.uk/bibliographic/natbib.html">British National Bibliography</a> published as linked open data and made available through SPARQL services.  Two different interfaces are provided:  a <a href="http://bnb.data.bl.uk/flint-sparql">SPARQL editor</a>, and /sparql a service endpoint for remote queries. Alternatively, use the search box below to enter a plain text term.</p>
+</div></div></div>
+  
+  </div>
+
+<div class="view-solr-search">
+	<form accept-charset="UTF-8" id="views-exposed-form-solr-search-page" method="get" action="/search">
+		<div class="views-exposed-form">
+			<div class="views-exposed-widgets clearfix">
+				<div class="views-exposed-widget views-widget-filter-object" id="edit-object-wrapper">
+					<div class="views-widget">
+						<div class="form-item form-type-textfield form-item-object">
+							<input type="text" class="form-text ui-autocomplete-input" maxlength="128" size="30" name="object" id="edit-object" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+						</div>
+					</div>
+				</div>
+				<div class="views-exposed-widget views-submit-button">
+					<input type="submit" class="form-submit" value="Search" name="" id="edit-submit-solr-search">
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+<div class="panel-pane pane-node-body" >
+  
+      
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The <a href="http://www.bl.uk/bibliographic/natbib.html">British National Bibliography</a> (BNB) records the publishing activity of the United Kingdom and the Republic of Ireland and has been doing so since the 1950s. This has traditionally included printed works and has recently been extended to electronic publications. The dataset includes metadata about published books, already published and forthcoming; serials i.e. journals, periodicals, magazines, newspapers, etc. as well as multiparts, loose-leaf publications and kits.</p>
+</div></div></div>
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-panel-homepage-1 clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-panel-homepage-1-inside clearfix">
+<div class="panels-flexible-region panels-flexible-region-panel-homepage-left panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-panel-homepage-left-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-entity-field pane-node-field-left-column" >
+  
+      
+  
+  <div class="field field-name-field-left-column field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>What is available?</h2>
+
+<p>The Linked Open BNB is a subset of the full British National Bibliography. It includes published books (including monographs published over time), serial publications and new and forthcoming books, representing approximately 3.9 million records.</p>
+
+<p>The dataset is available under a <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 1.0 Universal Public Domain Dedication</a> licence. Please see <a href="http://www.bl.uk/bibliographic/pdfs/british_library_catalogue_dataset_tc.pdf">here</a> for full terms and conditions. </p>
+</div></div></div>
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-panel-homepage-right panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-panel-homepage-right-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-entity-field pane-node-field-right-column" >
+  
+      
+  
+  <div class="field field-name-field-right-column field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Useful links</h2>
+
+<ul><li><a href="http://bnb.data.bl.uk/flint-sparql">SPARQL editor</a></li>
+	<li><a href="http://www.bl.uk/bibliographic/download.html#lodbnb">Bulk downloads</a></li>
+	<li>British Library Open Data <a href="http://www.bl.uk/bibliographic/datafree.html">pages</a></li>
+	<li>British National Bibliography <a href="http://bnb.bl.uk">web catalogue</a></li>
+	<li>British Library <a href="http://www.bl.uk/">website</a></li>
+</ul><p> </p>
+</div></div></div>
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-panel-homepage-2 panels-flexible-row-last clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-panel-homepage-2-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-panel-homepage-footer panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-panel-homepage-footer-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+          </div><!-- /#content -->
+
+      <div class="region region-tso-notice">
+    <div id="block-block-6" class="block block-block first last odd">
+
+      
+  <p>British Library Linked Data portal developed and maintained by  <a href="http://www.tso.co.uk/" target="_blank"><img alt="TSO" src="/sites/default/files/tso.png" style="width: 47px; height: 18px;  vertical-align: middle;" /></a></p>
+
+</div>
+  </div>
+
+  </div><!-- /#main -->
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <p>By using this site, you agree we can set and use cookies. For more details of these cookies and how to disable them, see our <a href="http://www.bl.uk/aboutus/terms/privacy/websites/cookies/index.html">cookie policy</a>.</p>
+</div>
+  </footer>
+
+    <div class="region region-bottom">
+    <div id="block-block-4" class="block block-block first odd">
+
+      
+  Copyright © The British Library Board
+</div>
+<div id="block-block-3" class="block block-block last even">
+
+      
+  <ul><li><a target="_blank" class="tripadvisor" href="http://www.tripadvisor.co.uk/Attraction_Review-g186338-d187728-Reviews-British_Library-London_England.html">British Library on TripAdvisor</a></li>
+	<li><a href="http://www.facebook.com/britishlibrary" class="facebook">Facebook</a></li>
+	<li><a href="http://www.twitter.com/britishlibrary" class="twitter">Twitter</a></li>
+	<li><a href="http://uk.youtube.com/britishlibrary" class="youtube">YouTube</a></li>
+	<li><a href="https://plus.google.com/110023273010545193861/posts" class="googleplus">Google+</a></li>
+	<li><a href="http://pinterest.com/britishlibrary" class="pinterest">Pinterest</a></li>
+	<li><a href="http://pressandpolicy.bl.uk/rss/default.aspx?feedid={E05B7BCC-AA48-48E2-B4AB-2C2A8F98619B}" class="rss">RSS feed</a></li>
+	<li><a href="#" class="st_sharethis_custom" image="http://www.bl.uk/images/homepage/sharethis_bl.jpg" displaytext="">ShareThis</a></li>
+</ul>
+</div>
+  </div>
+
+</div><!-- /#page -->
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> 
+<script type="text/javascript">stLight.options({publisher:'ad1af46f-5d2b-4f49-aa8c-10f1ffaecf51'});</script> 
+  </body>
+</html>
+;
